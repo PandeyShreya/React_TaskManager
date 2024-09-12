@@ -1,0 +1,16 @@
+.app {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 100px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background: linear-gradient(145deg, #f0f0f0, #ffffff); /* Subtle background gradient */
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
